@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dehasuer.
-- 👀 I’m interested in football and tech world.
+- 👀 I’m interested in  Web Development Technologies.
 - 🌱 I’m currently learning Swift,React,Javascript.
 - 💞️ I’m looking to collaborate on Web Development.
 - 📫 How to reach me https://www.linkedin.com/in/dehasuer/
