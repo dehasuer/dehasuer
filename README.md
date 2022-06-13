@@ -1,7 +1,5 @@
 <h1 align="center">Hey 👋, I'm Deha Süer</h1>
-- 🌱 I’m currently learning **Swift , SwiftUI**
-
-- 💬 Ask me about **JavaScript , React**
+- 🌱 I’m currently learning **Swift , Mobile Development**
 
 - 📫 How to reach me **dehasuer97@gmail.com**
 
