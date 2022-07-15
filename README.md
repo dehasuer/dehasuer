@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Deha Süer</h1>
 <h3 align="center">iOS Developer</h3>
 
-- 🌱 I’m currently learning **Swift UI & Design Patterns**
+- 🌱 I’m currently learning **Mobile Development**
 
 - 💬 Ask me about **JavaScript & Swift**
 
