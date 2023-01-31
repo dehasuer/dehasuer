@@ -1,9 +1,9 @@
 <h1 align="center">Hi , I'm Deha Süer</h1>
-<h3 align="center">iOS Developer</h3>
+<h3 align="center">Mobile Developer</h3>
 
 - 🌱 I’m currently learning **Mobile Development**
 
-- 💬 Ask me about **Swift**
+- 💬 Ask me about **Swift & Flutter**
 
 - 📫 How to reach me **dehasuer97@gmail.com**
 
