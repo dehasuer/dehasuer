@@ -40,7 +40,7 @@
   </a>
 </div>
 <p align="left">
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=dehasuer&theme=dark&date_format=j%20M%5B%20Y%5D"/></a>
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=dehasuer&theme=dark&date_format=j%20M%5B%20Y%5D" height="150"/></a>
 </p>
 
 ###
