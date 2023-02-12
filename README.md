@@ -39,7 +39,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-<p align="center">
+<p align="left">
     <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=dehasuer&theme=dark&date_format=j%20M%5B%20Y%5D"/></a>
 </p>
 
