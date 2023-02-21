@@ -42,5 +42,6 @@
 <p align="center">
     <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=dehasuer&theme=dark&date_format=j%20M%5B%20Y%5D" height="150"/></a>
 </p>
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=11120654232)
 
 ###
