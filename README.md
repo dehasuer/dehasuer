@@ -1,47 +1,29 @@
-<h2 align="left">Hi 👋! My name is Deha and I'm a Software Developer, from Turkey.</h2>
+# Deha Süer
 
-###
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdehasuer%2Fdehasuer&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/dehasuerr)](https://twitter.com/dehasuerr)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dehasuer/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/dehasuerr/)](https://www.instagram.com/dehasuerr)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:dehasuer97@gmail.com)
 
-<img align="right" height="150" src="https://camo.githubusercontent.com/5621f9896579a2414e354e7edfa730438de9bd714b91ec078976eb59baa8c1af/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f43757553487a7563304f3136364d52666a742f67697068792e676966"  />
+[![Github](https://img.shields.io/github/followers/dehasuer?label=Follow&style=social)](https://github.com/dehasuer)
 
-###
+- 💻 Software Developer at [**Heuplus**](https://www.linkedin.com/company/heuplus/) 
+- 📫 How to reach me: dehasuer97@gmail.com
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="30" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="30" alt="swift logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
+
+### 🖥 Skills
+
+- Mobile Development
+- Frontend Development
+### ⚙️ Tech Stack
+
+![Bootstrap](https://img.shields.io/badge/-Kotlin-05122A?style=for-the-badge&logo=Kotlin&color=353535) ![Bootstrap](https://img.shields.io/badge/-Swift-05122A?style=for-the-badge&logo=Swift&color=353535) ![Bootstrap](https://img.shields.io/badge/-Flutter-05122A?style=for-the-badge&logo=Flutter&color=353535) ![Bootstrap](https://img.shields.io/badge/-Jetpack%20Compose-05122A?style=for-the-badge&logo=Jetpack-Compose&color=353535) ![Bootstrap](https://img.shields.io/badge/-Javascript-05122A?style=for-the-badge&logo=Javascript&color=353535) ![Bootstrap](https://img.shields.io/badge/-Typescript-05122A?style=for-the-badge&logo=Typescript&color=353535) ![Bootstrap](https://img.shields.io/badge/-React%20-05122A?style=for-the-badge&logo=React&color=353535) ![Bootstrap](https://img.shields.io/badge/-Tailwindcss-05122A?style=for-the-badge&logo=Tailwindcss&color=353535) ![Bootstrap](https://img.shields.io/badge/-Php-05122A?style=for-the-badge&logo=Php&color=353535) ![Bootstrap](https://img.shields.io/badge/-Laravel-05122A?style=for-the-badge&logo=Laravel&color=353535)
+
+<div>
+  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dehasuer&show_icons=true&locale=en&layout=compact" alt="dehasuer" />
+  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=dehasuer&" alt="dehasuer" />
 </div>
 
-###
 
-<div align="left">
-  <a href="https://www.instagram.com/dehasuerr/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="mailto:dehasuer97@gmail.com	" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/dehasuer/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=dehasuer&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
+---
